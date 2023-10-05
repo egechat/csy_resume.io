@@ -67,7 +67,7 @@ new Vue({
                 certificates: ["法语DALF C1", "法国计算机应用水平证书level 1"],
                 educations: [
                     {
-                        school: "AgroParisTech (法国国立生命与环境科学与工业学院)  ranked #4 in QS WUR Ranking By Subject",
+                        school: "法国国立生命与环境科学与工业学院  ranked #4 in QS WUR Ranking By Subject",
                         level: "硕士",
                         professional: "géomatique (地理信息系统)",
                         duration: "2020.09-2023.01",
