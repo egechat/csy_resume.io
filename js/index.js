@@ -67,10 +67,10 @@ new Vue({
                 certificates: ["法语DALF C1", "法国计算机应用水平证书level 1"],
                 educations: [
                     {
-                        school: "AgroParisTech (巴黎高科农科院)  ranked #4 in QS WUR Ranking By Subject",
+                        school: "AgroParisTech (法国国立生命与环境科学与工业学院)  ranked #4 in QS WUR Ranking By Subject",
                         level: "硕士",
                         professional: "géomatique (地理信息系统)",
-                        duration: "2020-2022",
+                        duration: "2020.09-2023.01",
                         content: `主要相关课程：计算机课程(JAVA, Python, linux), 数据分析(MySQL, R), 数学, 统计学, 地理交通, 遥感, WebGis(HTML,PHP,JavaScritp,GeoServer,Leaflet), 地图学(ArcgisPro, Qgis, Illustrator), 地理空间数据分析(Postgres, postgis, PGAdmin, ArcgisPro)
                          `
 
@@ -79,7 +79,7 @@ new Vue({
                         school: "斯特拉斯堡大学",
                         level: "学士",
                         professional: "地理和规划",
-                        duration: "2016-2019",
+                        duration: "2016.09-2020.01",
                         content: `主要相关课程：土地规划和交通，数据分析，数学，统计学，地图学，遥感理论，大气学，生物地理
                         
                         `
