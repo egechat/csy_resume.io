@@ -5,7 +5,7 @@ new Vue({
             resume: {
                 base: {
                     name: "陈思颖",
-                    sex: 女|丁克主义",
+                    sex: "女|丁克主义",
                     birthday: "1995-01",
                     /* address: "上海",*/
                     phone: "+8617683260807 / +33771654105 / Wechat id : miaulement", 
