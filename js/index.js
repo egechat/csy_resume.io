@@ -68,7 +68,7 @@ new Vue({
                 
                      ` 
                     }, 
-                    } 
+                    
                 ],
                 certificates: ["法语DALF C1", "法国计算机应用水平证书level 1"],
                 educations: [
