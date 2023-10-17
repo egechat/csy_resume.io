@@ -10,7 +10,7 @@ new Vue({
                     /* address: "上海",*/
                     phone: "+8617683260807 / +33771654105 / Wechat id : miaulement", 
                     mail: "siying.chen@yahoo.com",
-                   /*  jobState: "在职", */
+                   jobState: "12月2号回国", 
                     /* reportState: "月内到岗",
                     experience: "5年经验",
                     position: "全栈工程师",*/
